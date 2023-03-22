@@ -1,0 +1,63 @@
+{
+	"grammarTitle": "Fortune Teller",
+ 	 "grammarDesc": "A grammar that generates fortune statements. ",
+	"start": [
+  "I see a <adj1> <adj3> stranger in your future.",
+  "A secret admirer will soon send you a <object> of <bonding>.",
+  "Your <bodypart> is in a place to draw true <state>.",
+  "A <adj2> time is in your near future.",
+  "The one you <liking> is <proximity> that you think.",
+  "Something you <sad> will turn up soon"
+],
+"adj1":
+["tall",
+"short",
+"dark",
+"fair",
+"handsome",
+"beautiful",
+"cute",
+"sweet"],
+"adj3":
+["genius",
+"famous",
+"charismatic",
+"brave",
+"funny",
+"honest",
+"smart",
+"wise"],
+"object":
+["letter",
+"sign",
+"rose"],
+"bodypart":
+["brain",
+"heart"],
+"proximity":
+["near",
+"closer",
+"far"],
+"bonding":
+["affection",
+"frienship",
+"love"],
+"liking":
+["love",
+"like",
+"adore"],
+"adj2":
+["exciting",
+"amazing",
+"thrilling",
+"astonishing",
+"surprising",
+"stunning",
+"breathtaking"],
+"state":
+["happiness",
+"success"],
+"sad":
+["lost",
+"broke"]
+}

@@ -1,0 +1,24 @@
+{
+  "grammarTitle": "Reason Generator",
+  "grammarDesc": "A grammar that generates reasons. ",
+
+  "start":[
+    "The reason it is this way here is unknown."
+    ],
+  "PastAction":[
+  "attacked <Group> ",
+  "persecuted <Group> ",
+  "compared <Group> to <Group> ",
+  "oppressed <Group> ",
+  "tweaked <Group> ",
+  "taxed <Group> ",
+  "jumped over tall <PluralNoun> in single bounds ",
+  "ate <Adverb> ",
+  "utilized <PluralNoun> ",
+  "drank <Soda> ",
+  "thought about <PluralNoun> ",
+  "burned in hell for eternity ",
+  "philosophized existentially ",
+  "flailed <Adverb> ",
+  "encroached on <Group> 's territory "]
+  }
